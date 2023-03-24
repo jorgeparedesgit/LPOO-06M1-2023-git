@@ -19,6 +19,6 @@ namespace SalesModel {
 		property double Salary;
 		property String^ Store;
 		property char Gender;
-		property String^ Birthday;
+		property String^ Birthday; 
     };
 }
